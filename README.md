@@ -1,1 +1,1 @@
-![image](https://github.com/ahmed605/UWPCustomTitlebarPoC/assets/34550324/fa15ced5-4ece-43a4-a771-ad696ca23165)
+![image](https://github.com/ahmed605/UWPCustomTitlebarPoC/assets/34550324/7d6c996c-6fed-4181-a75e-1c222af7f13a)
